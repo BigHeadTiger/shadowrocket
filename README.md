@@ -1,1 +1,3 @@
 # shadowrocket
+改编自Lucky大佬的懒人配置，尝试改为按照分流规则实现国内服务DIRECT走阿里Doh，国外服务走cloudflare和googl Doh，
+未匹配则final，Proxy走cloudflare和google Doh，防止dns泄漏，DNS分流加速功能
