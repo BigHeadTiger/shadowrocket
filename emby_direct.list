@@ -1,0 +1,64 @@
+# NAME: Emby
+
+# Emby 官方域名分流规则
+# HOST-SUFFIX,emby.media,Emby
+# HOST-SUFFIX,embyapp.com,Emby
+# HOST-SUFFIX,emby.wiki,Emby
+
+# 自定义 Emby 服务器分流规则
+DOMAIN,free.28.al,Emby
+DOMAIN,embyclub.maoxiong.cloud,Emby
+DOMAIN,embyclub2.maoxiong.cloud,Emby
+DOMAIN,hoshino.maoxiong.cloud,Emby
+DOMAIN,pornemby.maoxiong.cloud,Emby 
+DOMAIN,emby.nezhasu.com,Emby
+DOMAIN,emby.ucloudhost.top,DIRECT
+DOMAIN-SUFFIX,emby.bangumi.ca,DIRECT
+DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca,DIRECT
+DOMAIN-SUFFIX,cftv.paoluma.de,Emby
+DOMAIN-SUFFIX,kessoku-bando.biliblili.uk,Emby
+DOMAIN-SUFFIX,bps8m.onyra.cc,Emby
+DOMAIN-SUFFIX,hka-emby3.aliz.work,Emby
+DOMAIN-SUFFIX,kessoku-bando.bilibili.uk,Emby
+DOMAIN-SUFFIX,emby.yunti.online,Emby
+DOMAIN-SUFFIX,emby.oceancloud.asia,Emby
+DOMAIN-SUFFIX,nsfw.oceancloud.asia,Emby
+DOMAIN-SUFFIX,tanhuatv.site,DIRECT 
+DOMAIN-SUFFIX,emby.1l1.icu,Emby
+DOMAIN-SUFFIX,emby1.123456789.lol,Emby
+DOMAIN-SUFFIX,gongyi.cherry-pornemby.top,Emby
+DOMAIN-SUFFIX,x1.nezhasu.com,Emby
+DOMAIN-SUFFIX,qingmei.chuncheon241.top,Emby
+DOMAIN-SUFFIX,emby.wenjian.de,Emby
+DOMAIN-SUFFIX,ciallo.party,Emby
+DOMAIN-SUFFIX,tufei.de,Emby
+DOMAIN-SUFFIX,zoxfree.3767483.xyz,Emby
+DOMAIN-SUFFIX,vip.nangua.de,Emby
+DOMAIN-SUFFIX,emby.zn.al,Emby
+DOMAIN-SUFFIX,kfc.v50.su,Emby
+DOMAIN-SUFFIX,emby.v50.su,DIRECT
+DOMAIN-SUFFIX,cloudflare.v50.su,Emby
+DOMAIN-SUFFIX,cdn.v50.su,Emby
+DOMAIN-SUFFIX,lite.cn2gias.uk,Emby
+DOMAIN-SUFFIX,c1.staryuki.me,DIRECT
+DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc,DIRECT
+DOMAIN-SUFFIX,fast-v6.staryuki.me.kiven.cc,DIRECT
+DOMAIN-SUFFIX,onatoshi.114514.quest,Emby
+DOMAIN-SUFFIX,wf.vban.xyz,Emby
+DOMAIN-SUFFIX,public.shrekmedia.org,Emby
+DOMAIN-SUFFIX,gm.yezi.my,Emby
+DOMAIN-SUFFIX,plumber.nezhasu.com,Emby
+DOMAIN-SUFFIX,shouer.910427.xyz,Emby
+DOMAIN-SUFFIX,mperformance.mebimmer.de,Emby
+DOMAIN-SUFFIX,emby.kongcheng666.dpdns.org,Emby
+DOMAIN-SUFFIX,emby.embyserver.dpdns.org:16666,DIRECT
+DOMAIN-SUFFIX,emby.ipv4.embyserver.dpdns.org:16666,DIRECT
+DOMAIN-SUFFIX,emby.ipv6.embyserver.dpdns.org:16666,DIRECT
+DOMAIN-SUFFIX,emby.feiniu.lol,Emby
+DOMAIN-SUFFIX,test.feiniu.lol,Emby
+DOMAIN-SUFFIX,emby.nubebelle.cn,Emby
+DOMAIN-SUFFIX,10520.xyz,Emby
+DOMAIN-SUFFIX,emby.191920.xyz,Emby
+DOMAIN-SUFFIX,link00.okemby.org,Emby
+DOMAIN-SUFFIX,link01.okemby.org,Emby
+DOMAIN-SUFFIX,bai.yezi.my,DIRECT
