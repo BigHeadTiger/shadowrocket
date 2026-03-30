@@ -62,6 +62,6 @@ DOMAIN-SUFFIX,emby.191920.xyz,Emby
 DOMAIN-SUFFIX,link00.okemby.org,Emby
 DOMAIN-SUFFIX,link01.okemby.org,Emby
 DOMAIN-SUFFIX,bai.yezi.my,DIRECT
-DOMAIN-SUFFIX,gy1.emby.yun,Emby
-DOMAIN-SUFFIX,gy2.emby.yun,Emby
-DOMAIN-SUFFIX,gy3.emby.yun,Emby
+DOMAIN-SUFFIX,gy1.emby.yun,DIRECT
+DOMAIN-SUFFIX,gy2.emby.yun,DIRECT
+DOMAIN-SUFFIX,gy3.emby.yun,DIRECT
